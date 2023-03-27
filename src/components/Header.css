@@ -1,0 +1,134 @@
+.header{
+    display:flex;
+    position: absolute;
+    width: 1440px;
+    height: 592px;
+    left: 0px;
+    top: -1px;
+    background : #FFCD9E;
+}
+
+
+.b1{
+    position: absolute;
+    width: 562px;
+    height: 108px;
+    left: 136px;
+    top: 83px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 150%;
+    color: #282828;
+}
+
+.para{
+    position: absolute;
+    width: 495px;
+    height: 81px;
+    left: 136px;
+    top: 219px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    color: #484848;
+
+}
+.b2{
+    position: absolute;
+    width: 227px;
+    height: 81px;
+    left: 136px;
+    top: 315px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    color: #282828;
+}
+
+.inputFirst{
+    box-sizing: border-box;
+    position: absolute;
+    width: 344px;
+    height: 64px;
+    left: 136px;
+    top: 411px; 
+    background: #FFFFFF;
+    border: 4px solid;
+    border-radius: 8px;
+    border-color: black;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    color: #888888;
+}
+
+
+
+.button1{
+    position: absolute;
+    width: 216px;
+    height: 64px;
+    left: 496px;
+    top: 411px;
+    background: #282828;
+    border-radius: 8px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.b3{
+    position: absolute;
+    width: 344px;
+    height: 61px;
+    left: 134px;
+    top: 480px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+.right{
+    position: absolute;
+    width: 1440px;
+    height: 592px;
+    left: 0px;
+    top: -1px;
+
+
+}
+.mainBody{
+    width:393.52px;
+    height:442.45px;
+    top:21px;
+    left:818px;
+    position: absolute;
+    background:#FFCD9E ;
+}

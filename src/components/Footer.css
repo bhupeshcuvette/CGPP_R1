@@ -1,0 +1,143 @@
+.footer{
+    position:absolute;
+    width: 1440px;
+    height: 298px;
+    left: 0px;
+    top: 592px;
+    background: #282828;
+
+}
+.bf1{
+    position: absolute;
+    width: 216px;
+    height: 36px;
+    left: 191px;
+    top: 62px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    color: #FFFFFF;
+}
+
+.bf2{
+    position: absolute;
+    width: 216px;
+    height: 36px;
+    left: 191px;
+    top: 98px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    color: #FFFFFF;
+}
+
+.bf3
+{
+    position: absolute;
+    width: 216px;
+    height: 36px;
+    left: 191px;
+    top: 134px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    color: #FFFFFF;
+}
+
+.bf4{
+    position: absolute;
+    width: 220px;
+    height: 36px;
+    left: 191px;
+    top: 170px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    color: #FFFFFF;
+}
+
+.bf5{
+    position: absolute;
+    width: 236px;
+    height: 36px;
+    left: 191px;
+    top: 206px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    color: #FFFFFF;
+}
+
+
+
+.br1{
+    position: absolute;
+    width: 148px;
+    height: 36px;
+    left: 1099px;
+    top: 62px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    text-align: right;
+    color: #FFFFFF;
+}
+
+.br2{
+    position: absolute;
+    width: 232px;
+    height: 36px;
+    left: 1015px;
+    top: 98px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    text-align: right;
+    color: #FFFFFF
+}
+
+.LinkedIn{
+    position:absolute;
+    top:136.58px;
+    left:1179px;
+    background: #100F0D;
+}
+
+.Instagram{
+    position:absolute;
+    top:136.58px;
+    left:1217.59px;
+    background: #100F0D;
+
+}
+
+.br3{
+    position: absolute;
+    width: 232px;
+    height: 36px;
+    left: 1015px;
+    top: 206px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    text-align: right;
+    color: #FFFFFF;
+}
+
+
